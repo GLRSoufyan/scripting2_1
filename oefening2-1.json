@@ -1,0 +1,36 @@
+[
+    {
+        "STUDENTEN_NUMMER": 101715,
+        "STUDENTEN_NAAM": "Soufyan",
+        "VAKKEN": [
+            "NEDERLANDS_2",
+            "ENGELS_2",
+            "REKENEN_2",
+            "CREACOD_2",
+            "SCRIPTING_2",
+            "INTERFACE_2"
+        ],
+        "VRIENDEN": [
+           "Guusje",
+           "Fabian",
+           "Nassim",
+           "Salah"
+        ]
+    },
+
+    {
+        "STUDENTEN_NUMMER": 102390,
+        "STUDENTEN_NAAM": "Guusje",
+        "VAKKEN": [
+            "NEDERLANDS_2",
+            "ENGELS_2",
+            "REKENEN_2",
+            "CREACOD_2",
+            "SCRIPTING_2",
+            "INTERFACE_2"
+        ],
+        "VRIENDEN": [
+           "Geen..."
+        ]
+    }
+]
